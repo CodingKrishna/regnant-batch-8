@@ -1,0 +1,10 @@
+{
+    "id": 123,
+    "name": "Ravi",
+    "email": "ravi@gmail.com",
+    "mobile": [1234, 8907],
+    "address" : {
+        "street": "20th main",
+        "city": "Blr"
+    }
+}
